@@ -64,6 +64,6 @@ jobs:
 
       - name: Deploy hexo
         env:
-          TOKEN: ${{TOKEN}}
+          TOKEN: ${{secrets.TOKEN}}
         run: |
           npm run deploy
