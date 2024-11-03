@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  GIT_USER: prince
+  GIT_USER: huisunan
   GIT_EMAIL: 571101320@qq.com
   THEME_REPO: sanonz/hexo-theme-concise
   THEME_BRANCH: master
@@ -47,7 +47,7 @@ jobs:
 
       - name: Configuration environment
         env:
-          HEXO_DEPLOY_PRI: ${{secrets.DEPLOY_KEY}}
+          HEXO_DEPLOY_PRI: ${{secrets.HEXO_DEPLOY_PRI}}
         run: |
           sudo timedatectl set-timezone "Asia/Shanghai"
           mkdir -p ~/.ssh/
