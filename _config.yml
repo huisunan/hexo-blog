@@ -103,6 +103,6 @@ theme: landscape
 deploy:
   type: 'git'
   
-  repo: https://github.com/huisunan/hexo-blog
+  repo: git@github.com:sanonz/hexo-theme-concise.git
   branch: master
   message: site update
