@@ -10,7 +10,7 @@ env:
   GIT_EMAIL: 571101320@qq.com
   THEME_REPO: sanonz/hexo-theme-concise
   THEME_BRANCH: master
-  DEPLOY_REPO: blog/huisunan.github.io
+  DEPLOY_REPO: huisunan/hexo-blog
   DEPLOY_BRANCH: master
 
 jobs:
