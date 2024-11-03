@@ -1,5 +1,5 @@
 ---
-title: 使用Navicat 连接oracle出现 “ORA-03135: Connection Lost Contact”
+title: 使用Navicat 连接oracle出现 ORA-03135 Connection Lost Contact
 date: 2021-05-07 11:06
 tags: 
 categories: 
