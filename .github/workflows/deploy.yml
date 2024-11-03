@@ -6,11 +6,11 @@ on:
       - master
 
 env:
-  GIT_USER: Sanonz
-  GIT_EMAIL: sanonz@126.com
+  GIT_USER: prince
+  GIT_EMAIL: 571101320@qq.com
   THEME_REPO: sanonz/hexo-theme-concise
   THEME_BRANCH: master
-  DEPLOY_REPO: sanonz/sanonz.github.io
+  DEPLOY_REPO: blog/huisunan.github.io
   DEPLOY_BRANCH: master
 
 jobs:
