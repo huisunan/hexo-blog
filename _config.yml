@@ -105,4 +105,4 @@ deploy:
   
   repo: https://github.com/huisunan/hexo-blog
   branch: master
-  message: Site updated: {{ 现在('YYYY-MM-DD HH:mm:ss') }}
+  message: site update
