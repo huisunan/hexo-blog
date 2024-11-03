@@ -103,6 +103,6 @@ theme: landscape
 deploy:
   type: 'git'
   
-  repo: 'git@github.com:huisunan/huisunan.github.io'
+  repo: 'git@github.com:huisunan/huisunan.github.io.git'
   branch: master
   message: site update
