@@ -102,6 +102,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: 'git@github.com:huisunan/huisunan.github.io.git'
+  repo: 'https://github.com/huisunan/huisunan.github.io.git'
   branch: master
   message: site update
