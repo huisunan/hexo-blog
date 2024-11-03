@@ -102,3 +102,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
+  
+  repo: https://github.com/huisunan/hexo-blog
+  branch: master
+  message: Site updated: {{ 现在('YYYY-MM-DD HH:mm:ss') }}
