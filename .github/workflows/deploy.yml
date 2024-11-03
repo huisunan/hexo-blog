@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  GIT_USER: huisunan
+  GIT_USER: 571101320@qq.com
   GIT_EMAIL: 571101320@qq.com
   THEME_REPO: sanonz/hexo-theme-concise
   THEME_BRANCH: master
