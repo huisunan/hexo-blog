@@ -63,5 +63,7 @@ jobs:
           npm install
 
       - name: Deploy hexo
+        env:
+          TOKEN: ${{TOKEN}}
         run: |
           npm run deploy
