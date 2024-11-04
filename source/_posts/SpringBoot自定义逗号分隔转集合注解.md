@@ -160,4 +160,4 @@ public class WebConfig implements WebMvcConfigurer {
     }
 ```
 
-![](https://img2020.cnblogs.com/blog/1410909/202110/1410909-20211013132720570-1302493286.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20211013132720570-1302493286_1730686650382.png)

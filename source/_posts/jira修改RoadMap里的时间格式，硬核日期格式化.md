@@ -15,12 +15,12 @@ categories:
 
 全局搜索 DD/MM/YY 将其替换YYYY/MM/DD
 
-![](https://img2024.cnblogs.com/blog/1410909/202407/1410909-20240704021643685-138945748.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20240704021643685-138945748_1730686593219.png)
 
 修改后效果图
 
-![](https://img2024.cnblogs.com/blog/1410909/202407/1410909-20240704021902180-1363806614.png)  
-![](https://img2024.cnblogs.com/blog/1410909/202407/1410909-20240704021925960-489974832.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20240704021902180-1363806614_1730686593219.png)  
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20240704021925960-489974832_1730686593219.png)
 
 全局搜索
 
@@ -32,7 +32,7 @@ return `${o.getUTCMonth()+1}/${l()(o.getUTCDate().toString(), 2, "0")}`
 
 效果图
 
-![](https://img2024.cnblogs.com/blog/1410909/202407/1410909-20240704022125055-91458395.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20240704022125055-91458395_1730686593219.png)
 
 全局搜索
 
@@ -43,7 +43,7 @@ return`${t} ${l()(""+o.getUTCDate(),2,"0")}/${a}`
 return `${o.getUTCMonth()}/${l()("" + o.getUTCDate(), 2, "0")} 星期${['日','一','二','三','四','五','六'][o.getUTCDay()]}`
 
 效果  
-![](https://img2024.cnblogs.com/blog/1410909/202407/1410909-20240704024640829-57160194.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20240704024640829-57160194_1730686593219.png)
 
 全部替换完成后，将文件压缩成zip包，将后缀修改成jar，并上传到插件目录下替换
 

@@ -8,14 +8,14 @@ categories:
 <!--more-->
 
 现有服务列表  
-![](https://img2023.cnblogs.com/blog/1410909/202302/1410909-20230225185321386-1855228608.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20230225185321386-1855228608_1730686602019.png)
 
 在使用seata时总会超时
 
 通过skyWalking追踪发现  
-![](https://img2023.cnblogs.com/blog/1410909/202302/1410909-20230225185427826-1128974312.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20230225185427826-1128974312_1730686613411.png)
 
-![](https://img2023.cnblogs.com/blog/1410909/202302/1410909-20230225185454578-207629072.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20230225185454578-207629072_1730686613411.png)
 
 在调用接口camunda/group/list时获取getConnection超时，  
 在全局事务回滚后，sql又能正常执行

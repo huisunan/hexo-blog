@@ -10,7 +10,7 @@ categories:
 重写 AdaptCachedBodyGlobalFilter
 
 直接在项目中建立一个包名和文件名一样的类,实现覆盖的效果，目前官方的类还不支持拓展  
-![](https://img2024.cnblogs.com/blog/1410909/202401/1410909-20240103234938964-1542120015.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20240103234938964-1542120015_1730686602019.png)
 
 ```
 /*

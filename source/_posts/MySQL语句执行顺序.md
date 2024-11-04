@@ -7,4 +7,4 @@ categories:
 
 <!--more-->
 
-![](https://img2022.cnblogs.com/blog/1410909/202203/1410909-20220310140408984-1543090377.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20220310140408984-1543090377_1730686613411.png)

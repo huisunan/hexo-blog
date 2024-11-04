@@ -7,7 +7,7 @@ categories:
 
 <!--more-->
 
-![](https://img2020.cnblogs.com/blog/1410909/202106/1410909-20210614204455766-1774322076.gif)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20210614204455766-1774322076_1730686672795.gif)
 
 ```html
 <!DOCTYPE html>

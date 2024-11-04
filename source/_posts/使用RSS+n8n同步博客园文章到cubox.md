@@ -13,17 +13,17 @@ categories:
 
 Cubox是一款碎片知识文章收集的应用
 
-![](https://img2024.cnblogs.com/blog/1410909/202402/1410909-20240207223738974-1361379525.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20240207223738974-1361379525_1730686602019.png)
 
 ## n8n
 
 低代码的workFlow
 
-![](https://img2024.cnblogs.com/blog/1410909/202402/1410909-20240207223759173-1889192280.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20240207223759173-1889192280_1730686602019.png)
 
 ## 整合
 
-![](https://img2024.cnblogs.com/blog/1410909/202402/1410909-20240207224237831-1340391436.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20240207224237831-1340391436_1730686602019.png)
 
 大致流程
 

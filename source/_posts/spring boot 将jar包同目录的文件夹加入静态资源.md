@@ -16,7 +16,7 @@ spring:
       static-locations: file:upload
 ```
 
-![](https://img2020.cnblogs.com/blog/1410909/202110/1410909-20211025141404797-129654207.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20211025141404797-129654207_1730686630335.png)
 
 效果：  
-![](https://img2020.cnblogs.com/blog/1410909/202110/1410909-20211025141429683-1984817132.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20211025141429683-1984817132_1730686630335.png)

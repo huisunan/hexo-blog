@@ -11,13 +11,13 @@ categories:
 
 ## 数组包含某个数据
 
-![](https://img2020.cnblogs.com/blog/1410909/202108/1410909-20210828094049059-46282987.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20210828094049059-46282987_1730686650382.png)
 
 ```sql
 SELECT * from test WHERE JSON_CONTAINS(`value`, '3','$');
 ```
 
-![](https://img2020.cnblogs.com/blog/1410909/202108/1410909-20210828094121830-1738574518.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20210828094121830-1738574518_1730686650382.png)
 
 ## 获取长度
 
@@ -25,4 +25,4 @@ SELECT * from test WHERE JSON_CONTAINS(`value`, '3','$');
 SELECT JSON_LENGTH(`value`,'$') from test
 ```
 
-![](https://img2020.cnblogs.com/blog/1410909/202108/1410909-20210828095430267-1737547699.png)
+![](https://raw.githubusercontent.com/huisunan/cdn/main/img/1410909-20210828095430267-1737547699_1730686650382.png)
