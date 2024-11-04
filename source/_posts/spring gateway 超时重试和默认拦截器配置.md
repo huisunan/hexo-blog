@@ -1,7 +1,7 @@
 ---
 title: spring gateway 超时重试和默认拦截器配置
 date: 2023-12-20 21:22
-tags: 
+tags: java
 categories: 
 ---
 

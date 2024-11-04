@@ -1,7 +1,7 @@
 ---
 title: 使用RSS+n8n同步博客园文章到cubox
 date: 2024-02-07 22:44
-tags: 
+tags: other
 categories: 
 ---
 

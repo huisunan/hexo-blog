@@ -1,7 +1,7 @@
 ---
 title: k8s批量调整副本数量
 date: 2024-08-22 13:33
-tags: 
+tags: k8s,ops
 categories: 
 ---
 

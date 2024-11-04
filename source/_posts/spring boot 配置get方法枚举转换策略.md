@@ -1,7 +1,7 @@
 ---
 title: spring boot 配置get方法枚举转换策略
 date: 2023-12-19 18:05
-tags: 
+tags: java
 categories: 
 ---
 

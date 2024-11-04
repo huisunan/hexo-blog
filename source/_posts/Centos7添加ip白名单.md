@@ -1,7 +1,7 @@
 ---
 title: Centos7添加ip白名单
 date: 2022-06-16 19:58
-tags: 
+tags: linux
 categories: 
 ---
 

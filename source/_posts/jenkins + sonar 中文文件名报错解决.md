@@ -1,7 +1,7 @@
 ---
 title: jenkins + sonar 中文文件名报错解决
 date: 2021-05-10 17:33
-tags: 
+tags: ops
 categories: 
 ---
 

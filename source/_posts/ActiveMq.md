@@ -1,7 +1,7 @@
 ---
 title: ActiveMq
 date: 2021-05-07 11:24
-tags: 
+tags: mq
 categories: 
 ---
 

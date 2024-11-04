@@ -1,7 +1,7 @@
 ---
 title: Redis锁的简单实现
 date: 2021-07-05 12:04
-tags: 
+tags: java
 categories: 
 ---
 

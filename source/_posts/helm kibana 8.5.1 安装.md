@@ -1,7 +1,7 @@
 ---
 title: helm kibana 8.5.1 安装
 date: 2022-12-06 01:09
-tags: 
+tags: es
 categories: 
 ---
 

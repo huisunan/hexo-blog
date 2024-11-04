@@ -1,7 +1,7 @@
 ---
 title: homebrew使用临时代理
 date: 2022-01-22 09:50
-tags: 
+tags: mac
 categories: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: swagger忽略方法里参数的方法
 date: 2021-05-07 11:25
-tags: 
+tags: java
 categories: 
 ---
 

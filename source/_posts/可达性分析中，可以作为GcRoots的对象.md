@@ -1,7 +1,7 @@
 ---
 title: 可达性分析中，可以作为GcRoots的对象
 date: 2021-05-07 11:07
-tags: 
+tags: java
 categories: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Jvm内存布局和Java对象内存布局
 date: 2021-07-01 15:43
-tags: 
+tags: java
 categories: 
 ---
 

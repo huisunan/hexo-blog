@@ -1,7 +1,7 @@
 ---
 title: spring boot 开启gzip 加快报文传输速度
 date: 2023-12-30 09:47
-tags: 
+tags: java
 categories: 
 ---
 

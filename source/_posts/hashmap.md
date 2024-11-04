@@ -1,7 +1,7 @@
 ---
 title: hashmap
 date: 2021-05-07 11:20
-tags: 
+tags: java
 categories: 
 ---
 

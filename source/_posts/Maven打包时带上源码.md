@@ -1,7 +1,7 @@
 ---
 title: Maven打包时带上源码
 date: 2021-11-16 13:18
-tags: 
+tags: java
 categories: 
 ---
 

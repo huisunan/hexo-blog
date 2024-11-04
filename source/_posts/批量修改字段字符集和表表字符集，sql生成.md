@@ -1,7 +1,7 @@
 ---
 title: 批量修改字段字符集和表表字符集，sql生成
 date: 2024-04-11 09:24
-tags: 
+tags: mysql
 categories: 
 ---
 

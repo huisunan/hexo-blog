@@ -1,7 +1,7 @@
 ---
 title: k8s-nfs
 date: 2022-12-05 13:36
-tags: 
+tags: k8s,ops
 categories: 
 ---
 

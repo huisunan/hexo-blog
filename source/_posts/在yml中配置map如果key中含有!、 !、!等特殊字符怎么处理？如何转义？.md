@@ -1,7 +1,7 @@
 ---
 title: 在yml中配置map如果key中含有/、 \、*等特殊字符怎么处理？如何转义？
 date: 2021-05-07 10:06
-tags: 
+tags: java
 categories: 
 ---
 

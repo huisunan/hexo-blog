@@ -1,7 +1,7 @@
 ---
 title: RestTemplate服务名调用原理
 date: 2022-03-09 16:26
-tags: 
+tags: java
 categories: 
 ---
 

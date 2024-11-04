@@ -1,7 +1,7 @@
 ---
 title: spring boot 将jar包同目录的文件夹加入静态资源
 date: 2021-10-25 14:15
-tags: 
+tags: java
 categories: 
 ---
 

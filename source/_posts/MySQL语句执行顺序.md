@@ -1,7 +1,7 @@
 ---
 title: MySQL语句执行顺序
 date: 2022-03-10 14:04
-tags: 
+tags: mysql
 categories: 
 ---
 

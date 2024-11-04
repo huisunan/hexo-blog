@@ -1,7 +1,7 @@
 ---
 title: SqlDeveloper字体大小设置
 date: 2021-05-07 13:59
-tags: 
+tags: sql
 categories: 
 ---
 

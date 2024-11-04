@@ -1,7 +1,7 @@
 ---
 title: 使用spring cloud gateway 转发文件上传请求时，直接内存oom异常
 date: 2024-01-03 23:52
-tags: 
+tags: java
 categories: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: m1 安装chromium
 date: 2022-01-22 10:35
-tags: 
+tags: mac
 categories: 
 ---
 

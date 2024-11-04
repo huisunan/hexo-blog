@@ -1,7 +1,7 @@
 ---
 title: Mysql not in 不走索引
 date: 2022-02-15 19:26
-tags: 
+tags: mysql
 categories: 
 ---
 

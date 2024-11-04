@@ -1,7 +1,7 @@
 ---
 title: mysql全文索引
 date: 2022-03-12 10:44
-tags: 
+tags: mysql
 categories: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 写一个通用的TreeUtil，自关联表结构的树形构造
 date: 2022-03-18 10:35
-tags: 
+tags: java
 categories: 
 ---
 

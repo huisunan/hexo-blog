@@ -1,7 +1,7 @@
 ---
 title: mapstruct 1.4.2和lombok 1.18.16之后版本，报错和mapstruct生成空的实现
 date: 2021-05-14 12:42
-tags: 
+tags: java
 categories: 
 ---
 

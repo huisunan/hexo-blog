@@ -1,7 +1,7 @@
 ---
 title: 使用Jackson对字典翻译
 date: 2021-05-25 14:08
-tags: 
+tags: java
 categories: 
 ---
 

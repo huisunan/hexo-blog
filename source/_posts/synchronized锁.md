@@ -1,7 +1,7 @@
 ---
 title: synchronized锁
 date: 2021-05-07 11:39
-tags: 
+tags: java
 categories: 
 ---
 

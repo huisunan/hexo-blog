@@ -1,7 +1,7 @@
 ---
 title: linux 启动jar脚本
 date: 2021-05-07 14:04
-tags: 
+tags: linux
 categories: 
 ---
 

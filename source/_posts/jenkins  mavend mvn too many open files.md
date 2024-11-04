@@ -1,7 +1,7 @@
 ---
 title: jenkins  mavend mvn too many open files
 date: 2023-03-01 22:38
-tags: 
+tags: ops
 categories: 
 ---
 

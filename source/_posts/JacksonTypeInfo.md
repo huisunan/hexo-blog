@@ -1,7 +1,7 @@
 ---
 title: JacksonTypeInfo
 date: 2023-01-06 23:25
-tags: 
+tags: java
 categories: 
 ---
 
